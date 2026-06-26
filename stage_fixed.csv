@@ -1,0 +1,310 @@
+Votre spécialité,Sujet de stage,Nom de la Société de stage,E-mail de contact pour votre encadrant/responsable de la société,Pays de l'entreprise de stage
+GL,Enterprise Systems Modernization: Cloud Database Migration and DevOps Pipeline Transformation,Maibornwolff GmbH,syrine.benrayana@maibornwolff.de,Allemagne
+GL,Semantic Search Enhancement on Large-Scale Support Ticket Data via Embeddings,Mercedes-Benz,bjoern.oltmanns@mercedes-benz.com,Allemagne
+GL,Conception d’un agent de déploiement intelligent pour une plateforme modulaire DevOps,Speedykom GmbH,hamza@speedykom.de,Allemagne et Tunisie
+GL,développement d'une application mobile,Reality,ali.bakabas@reality.com,Amérique
+GL,Rewriting the Chat UI of an iOS instant messaging app in SwiftUI,MBOA Technology Co-operative Inc,singpolyma@singpolyma.net,Canada
+GL,Implementation of a Modular Multi-Agent LLM Pipeline for Fake Hotel Review Detection,Syddansk Universitet,say@mmmi.sdu.dk,Denmark (Remote)
+GL,"Conception, mise en œuvre et d´eploiement d’une plateforme de gestion d’installations sportives",Reality,seyf@reality-co.com,Etas Unis
+GL,Développement de Microservices et Architecture Adaptative dans le Cloud chez Reality,Reality,alibakabas@reality-co.com,États-Unis
+GL,Développement d’un Assistant Virtuel Intelligent Intégré à Odoo,YONNOV’IA SAS,kturki@yonnovia.fr,France
+GL,Conception et déploiement d’un chatbot de gestion des risques basé sur un LLM open-source,Yonnov'IA,kturki@yonnovia.fr,France
+GL,Développement d’un assistant intelligent RH basé sur des modèles prédictifs,YONNOV'IA,kturki@yonnovia.fr,france
+GL,Identification de la Signature de Jeu au Tennis via l'apprentissage unsupervisé,Efrei Research Lab,ahmed.jouini@efrei.fr,France
+GL,Conception et développement de modules Odoo pour la gestion intégrée des risques,Yonnov'ai,kturki@yonnovia.fr,france
+GL,automatisation réseau,e sncf solutions,elihani@sncf.fr,france
+GL,Mise en place d’un assistant conversationnel local basé sur un modèle GPT open source,Yonnov'IA,kturki@yonnovia.fr,France
+GL,Projet HowToCloud chez PCP : Intégration stratégique et déploiement CI/CD,PCP Consulting,contact@pcp-consulting.fr,France
+GL,Identification de la Signature de Jeu au Tennis via l’apprentissage non supervisé,EFREI Research Lab,ahmed.jouini@efrei.fr,France
+GL,Fine-tuning d’un modèle IA de fondation de l’observation de la terre pour l’analyse des risques industriels sur des sites géographiques,METAPLANET,david.petit@metaplanet.fr,France
+GL,Développement et intégration d’un module de gestion des utilisateurs dans un CRM open source en Node.js,MG Solutions,ghannem.mohamed@gmail.com,France
+GL,Chatbot intelligent conçu pour assister les utilisateurs dans l’utilisation de leur système ERP,Yonnov'ia,kturki@yonnovia.fr,france
+GL,Chatbot intelligent conçu pour assister les utilisateurs dans l’utilisation de leur système ERP,YONNOV’IA SAS,kturki@yonnovia.fr,France
+GL,Developpement d’un système de digitalisation de la collecte des données d’un patient en utilisant un iot et un système d’affichage en temps reel,Data2innov,a.rafrafi@data2innov.fr,France
+GL,Détection d’intentions frauduleuses dans les écosystèmes DeFi à partir d’empreintes comportementales,efrei,souheib.yousfi@efrei.fr,France
+GL,Développement du module Politique de Voyage et intégration Sabre NDC,Everbloo,dmarciano@adenis.fr,France
+GL,Developpement d’un système de digitalisation de la collecte des données d’un patient en utilisant un iot et un système d’affichage en temps reel,Data2innov,a.rafrafi@data2innov.fr,france
+GL,Developpement d’un Modèle de Deep Learning pour la Prédiction des Émissions de CO2 en Milieu Urbain,Metaplanet SAS,david.petit@metaplanet.fr,France
+GL,Scalable Streaming Pipeline,Synapse AI,admin@synapse-ai.io,"London, United Kingdom"
+GL,"développement d’un assistant IA pour pour la prédiction des indicateurs RH : engagement, turnover et absentéisme",Yonnov'IA,kturki@yonnovia.fr,"Marseille, France"
+GL,L’intelligence artificielle de nouvelle génération pour le trading,Quantum Signals,iordanis@quantumsignals.ai,Paris
+GL,Mise en place d’une pipeline DevOps automatisée pour une plateforme SaaS multilingue,NullSpace,j.vanamerogen@nullspace.cloud,Pays Bas
+GL,"Evaluation of Transformers for Sentiment, Emotion, and Topic Classification",Synapse AI,abdullah.s.adam@synapse-ai.io,Royaume-Uni
+GL,Développement Mobile et Backend,Reality,alibakabas@reality-co.com,Seatlle
+GL,Développement Mobile et Backend,Reality,alibakabas@reality-co.com,Seattle
+GL,Building AI Modules For EPC Classification And Prompt Sanitization,Dydon AI,ion.oaie@dydon.ai,Suisse
+GL,AI & NLP Development,Dydon AI,ion.oaie@dydon.ai,Suisse
+GL,AI-based Extraction and Evaluation of Technical Criteria for EU Taxonomy Compliance and Related Projects,DYDON AI,ion.oaie@dydon.ai,Suisse
+GL,Monitoring et Optimisation d'une solution cloud sur AWS EKS,Nexaminds,azizfekih@nexaminds.net,Tunis
+GL,Design and Implementation of an Integrated Payroll and Accounting Management System,Flouci,anis@flouci.com,Tunise
+GL,Création d’une Plateforme de Filtrage de CV,PROXYM IT,bailikhaled@gmail.com,Tunisia
+GL,Design and Implementation of a Multi-Tenant Custom Chatbot Platform,STE DEV MAZ,contact@maz-dev.tn,Tunisia
+GL,Web Application Penetration Testing,SmartSkills,habib.jalouli@smartskills.tn,Tunisia
+GL,Desktop application for hospitals,Spare,saf@peakgroup.tn,Tunisia
+GL,Migration de Bitbucket vers Github et de Jenkins vers GithubACtions,Flouci ( by KAOUN ),dhafer.soudani@flouci.com,Tunisia
+GL,Distributed Computing Applied to AI multimodal video processing,ImaginarioAI,abdelhak.loukkal@imaginario.ai,Tunisia
+GL,product grouping with semantic similarity,COGNIRA,asma.benfredj@cognira.com,Tunisie
+GL,Analyse et classification des commentaires et feedback des utilisateurs,Medius,khaireddine.amamou@medius.com,Tunisie
+GL,Développement d’une helm chart personnalisée pour Apache Superset et création d’un opérateur kubernetes,MAZ DEV,aziz.masmoudi@insat.ucar.tn,tunisie
+GL,Provisionnement et Déploiement d’Applications,3S (Standard Sharing Software),mbendaoud@3s.com.tn,Tunisie
+GL,Design and Implementation of a Monitoring Infrastructure for the Oktoboot Application,Pwn & Patch,youssef.chalghoumi@pwnandpatch.com,Tunisie
+GL,Sécurisation et Conformité SOC 2 Type II dans Kubernetes : Automatisation des Contrôles en Environnement Cloud-Native,Pocteo Factory,walid.dridi@pocteo.com,Tunisie
+GL,Generative Model Pipeline for 3D Furniture Engineering,Lanterns Studios,mohamedfareszribi@gmail.com,Tunisie
+GL,Validateur intelligent de dépenses basé sur un système RAG,Expensya,karim.ghram@medius.com,Tunisie
+GL,Full-Stack Development and System Optimization within Predicto Energy’s SaaS Platform 2024/2025,Predicto Energy,Hamdi.Benahmed@predictoenergy.net,Tunisie
+GL,Conception et Développement d'un système automatisé de détection des changements de taux de tva,Expensya,sofiene.mrabet@medius.com,Tunisie
+GL,Pipeline d’extraction automatique de contenu PDF,Mat-it,anis@mat-it.tech,Tunisie
+GL,Contributed to the design and implementation of a networking app,ATS Digital,recrutement@ats-digital.com,Tunisie
+GL,Industry Carbon emission prediction optimization and Data pipelines implementation,Carbon Insights,stefan@carboninsights.net,Tunisie
+GL,Conception et Implémentation des fonctionnalités d’IA générative et d’agents IA pour la gestion de documents,Expensya By Medius,khalil.benmahmoud@medius.com,Tunisie
+GL,Mise en place d’une plateforme distribuée pour services audio intelligents,TECHNOZOR SARL,amira.bj@gmail.com,Tunisie
+GL,Développement d’un MVP de plateforme LMS,MAT-IT,anis@mat-it.tech,Tunisie
+GL,louay.eloudi,Expensya SARL,karim.ghram@medius.com,Tunisie
+GL,Design and Implementation of an AI-Integrated Big Data Platform,Seneca Innovation Center,mo@1dev.space,Tunisie
+GL,Centralized Log Management System for Microservices,MedSirat,salma.seddik@medsirat.com,Tunisie
+GL,Auto Détection des changements légales des Mileage Rates,Expensya,karim.ghram@medius.com,Tunisie
+GL,Transformation des documents de sources et de types multiples vers un format utilisable par LLM,Ketrone,sadry.elmateri@ketrone.io,Tunisie
+GL,"Design and Implementation of JULIA, a Multi‐Functional Intelligent Agent for the T‐Negoce International Trade Platform",SoftCorp Tunisie,Helmi.allani@softcorp.fr,Tunisie
+GL,Evaluation and enhancement of an AI Agent for Automated Confluence Page Formatting,Vectors Software,sofien.chaabouni@covectors.io,Tunisie
+GL,Conception et intégration d’un pipeline de données pour le calcul d’empreinte carbone,Carbon Jar,CarbonJar@protonmail.com,Tunisie
+GL,Optimization and enhancement of an AI Agent for Automated Confluence Page Formatting,Vectors Software,sofien.chaabouni@covectors.io,Tunisie
+GL,Analyse de performance et optimisation d'une architecture distribuée,Nexaminds,azizfekih@nexaminds.net,Tunisie
+GL,Pipelines de rapprochement de factures : du legacy au robuste,Expensya,Jakub.Golebiowski@medius.com,Tunisie
+GL,Release Process Improvement,Expensya By Medius,nizar.triki@medius.com,Tunisie
+GL,Facial recognition-based access control system,TUNISAIR,moncer.jemmali@tunisair.com.tn,Tunisie
+GL,Conception et développement d’un éditeur de notes collaboratif en temps réel,ComunikCRM,w.ellouzi@comunikmail.com,Tunisie
+GL,Mise en ouevre d'une chaine CI/CD pour le deploiement de solution DATA avec une couche de supevision,Adactim,Syrine.BenYakhlef@adactim.com,Tunisie
+GL,Invoice Data Extraction,OneCloud,ayoubch@cloudteam.tn,Tunisie
+GL,Exploration des bases de données publiques pour l’identification de biomarqueurs génomiques dans les leucémies aiguës,Institut Pasteur de Tunis,ohouyem@gmail.com,Tunisie
+GL,Développement d'un agent IA,MAZDEV,contact@maz-dev.tn,tunisie
+GL,Reconception de base de données et implémentation d'un générateur de workflows pour les processus administratifs,Agence Foncière Industrielle,Kais.Mejri@afi.nat.tn,Tunisie
+GL,Intégrations d'Entreprise pour un Agent Conversationnel : Conception et Déploiement d'un Bot d'Interrogation de Données en langage naturel,Expensya by Medius,khalil.zouari@medius.com,Tunisie
+GL,conception et développement d’un module électricité d’un système de management d’énergie,Control Energy,mohamed.kharrat@controlenergy.com.tn,Tunisie
+GL,Automatisation du cycle de déploiement d’applications conteneurisées via les pratiques GitOps et migration vers Amazon EKS,Value,zied.boulifi@value.com.tn,Tunisie
+GL,Conception et mise en œuvre d'une plateforme de gestion d'entreprise alimentée par l'IA,Metadrift Labs,anas@metadrift.co,Tunisie
+GL,Distributed computing applied to AI multimodal video processing,ImaginarioAI,abdelhak.loukkal@imaginario.ai,Tunisie
+GL,Mise en place d’une Dashboard RH et Commercials,Olivesoft ( Société LAGID),rh@olivesoft.fr,Tunisie
+GL,Contributed to the design and implementation of a networking app,ATS Digital,recrutement@ats-digital.com,Tunsie
+GL,Angus: An AI-Powered Football Assistant,Clagra Group,callum@calgra.com,UK
+GL,Développement d'une plateforme d'enquêtes alimentée par l'intelligence artificielle,TheySaid,amy@theysaid.io,USA
+GL,Optimisation UX avec PostHog,TheySaid,amy@theysaid.io,USA
+GL,Développement et optimisation d’une application web B2B,Reality,alibakabas@reality-co.com,USA
+IIA,Autonomous driving using Liquid Neural Networks on EdgeAI device,Contentwise,miro@contentwise.tech,Belgium
+IIA,Migration de la librairie d’abstraction des périphériques du microcontrôleur STM32H723 vers RA8M1 de RENESAS,Shanon Technologies,omarbouzourraa@gmail.com,France
+IIA,Design and development of an AI agent for automating DevOps tasks,AIDODEV,nael.fridhi@aidodev.com,France
+IIA,Conception et développement d’une séance de travaux pratiques pour la régulation de vitesse d’un moteur à courant continu utilisant une nouvelle plateforme pédagogique matérielle,École Nationale Supérieure d’Électricité et de Mécanique (ENSEM),stephanie.gallaire@univ-lorraine.fr,France
+IIA,Développement d’un assistant intelligent RH basé sur des modèles prédictifs en Odoo,Yonnov'IA,contact@yonnovia.fr,france
+IIA,Amélioration d’une plateforme de véhicule autonome,École Nationale Supérieure d’Électricité et de Mécanique (ENSEM),Abdelkader Lahmadi,France
+IIA,Amélioration d’une plateforme de véhicule autonome,École Nationale Supérieure d’Électricité et de Mécanique (ENSEM),Abdelkader Lahmadi,France
+IIA,Développement d’un assistant intelligent RH basé sur des modèles prédictifs et un chatbot Odoo,Yonnov'IA,kturki@yonnovia.fr,France
+IIA,Développement en langage C sur STM32H723 et intégration du filtre de Kalman dans le Framework de Shanon Technologies,Shanon Technologies,omarbouzourraa@gmail.com,France
+IIA,Développement et intégration des algorithmes dans un système de perception pour capsules autonomes,ENSEM Nancy,Abdelkader.lahmadi@uni v-lorraine.fr,France
+IIA,Development of a Model for Trend Analysis of Real Estate Data,YONNOV'IA,contact@yonnovia.fr,France
+IIA,Interprétation sémantique d’images satellites via LLMs : Application aux risques industriels,MetaPlanet,michel.ackermann@metaplanet.fr,France
+IIA,Implementation of Kalman Filter Variants and the RLS Algorithm on STM32H7,Shanon Technologies,omarbouzourraa@gmail.com,France
+IIA,Benchmarking des biais politiques dans les LLMs,Daijobu AI,hello@daijobu.ai,France
+IIA,Data Analytics and Machine Learning for Operational Optimization at Armada Delivery Solutions,Armada Delivery Solutions,mohamedali.benthaier@armadadelivery.com,Kuwait
+IIA,Sakina: AI-Powered Culturally-Aware Mental Health System,Qatar ComputingResearch Institute (QCRI),smessaoud@hbku.edu.qa,Qatar
+IIA,Future Stability Assessment of Kuiper Belt Objects and Identification of 'Escape Candidates' Using a Bayesian Neural Network (BNN°,Latis ENISO,mohamedali.mahjoub@eniso.rnu.tn,"Sousse,Tunisie"
+IIA,Structured data extraction from unstructured content using LLM schemas,Axe Finance,Maher.BOUDHHIR@axefinance.com,Tunis
+IIA,Develppement d'une application web de gestion des stagiaires avec intégration de chatbot intelligent,STEG,fattaoui@steg.com.tn,Tunis
+IIA,Structured data extraction from unstructured content using LLM schemas,Axe finance,Maher.BOUDHHIR@axefinance.com,Tunis
+IIA,Jurisprudence Data Integration and Internal Evaluation System Development for Oratio’s RAG Platform,Oratio Technologies,oussama.chelly@oratiotechnologies.com,Tunisia
+IIA,Development of smart solution for greenhouses maintenance,Hydatis,ahmed.karoui@hydatis.com,Tunisia
+IIA,Optimisation d’une Plateforme RH Intelligente : Intégration de Modules Prédictifs et Fonctionnels,Hydatis,kais.azzouzi@hydatis.com,Tunisie
+IIA,Application web de gestion des stagiaire et intégration d'un chatbot,Sociéte Tunisienne d'électricité et de Gaz,fattaoui@steg.com.tn,Tunisie
+IIA,DEVELOPPEMENT ET AMELIORATION D’UNE PLATEFORME IOT POUR LA GESTION DES SERRES CONNECTEES,Hydatis,ahmed.karoui@hydatis.com,Tunisie
+IIA,Detection et cartographie des espaces,Novel-Ti,faten.cherni@novelti.com.tn,Tunisie
+IIA,Optimisation d’une Plateforme RH Intelligente : Intégration de Modules Prédictifs et Fonctionnels,Hydatis,kais.azzouzi@hydatis.com,Tunisie
+IIA,DEVELOPPEMENT ET AMELIORATION D’UNE PLATEFORME IOT POUR LA GESTION DES SERRES CONNECTEES,Hydatis,ahmed.karoui@hydatis.com,Tunisie
+IIA,Image-based inspection of technical parts using artificial intelligence,Clayens Tunisia,habib.dhifaoui@clayens.com,Tunisie
+IIA,Leveraging Vision-Language Models (VLMs) for Automated Image Annotation in Shop-Analytics,anavid,mohamed.ba@anavid.co,Tunisie
+IIA,Wireless Sensor Network for Air Pollution Detection,CemLab,jawher@squ.edu.om,Tunisie
+IIA,STM32Cube Embedded SW Benchmark,STMicroelectronics,sirine.eljazi01@st.com,Tunisie
+IIA,suivi et monitoring des employés Sagemcom,Sagemcom,ZBS_EZR_DRH_stages@sagemcom.com,Tunisie
+IIA,AI-Powered WEB/MOBILE platform for intuitive extraction and analysis of excel data,AIRBUS,houssem.h.hamza@airbus.com,Tunisie
+IIA,Analyse de données d’émissions carbone et développement de stratégies de réduction personnalisées,ProVerdy,souha.bejaoui@proverdy.com,Tunisie
+IIA,Adaptation des systèmes avionique pour l'intégration d'aéronefs dans la flotte tunisair,Tunisair,boukhili.faouzi.c@gmail.com,tunisie
+IIA,Design and Implementation of an ICT to MTP Automatic Conversion System Using Generative AI,Sagemcom,houssem-eddine.baraket@sagemcom.com,Tunisie
+IIA,Réalisation d’un mini testeur de carte électronique MR307,ASTEELFLASH,Kais.HATTABI@asteelflash.com,Tunisie
+IIA,Design of Autonomous Navigation for a Solar Panels Cleaning Robot,Enova Robotics,nour.bencharrada@enovarobotics.eu,Tunisie
+IIA,Développement d'une Plateforme de Gestion Technique du Bâtiment Intelligente : De l'Acquisition Robuste KNX et la Visualisation Analytique à l'Assistance Opérationnelle par IA et le Contrôle 3D,ESD Performance - VIMAR,mohamed.ben.mokchaha@gmail.com,Tunisie
+IIA,Développement d'une Plateforme de Gestion Technique du Bâtiment Intelligente : De l'Acquisition Robuste KNX et la Visualisation Analytique à l'Assistance Opérationnelle par IA et le Contrôle 3D,ESD Performance - VIMAR,mohamed.ben.mokchaha@gmail.com,Tunisie
+IIA,Intégration d’un script pour évaluer et optimiser l’impact environnemental de l’automatisation des tests dans le pipeline CI/CD,SOFRECOM,henda.mrad@sofrecom.com,Tunisie
+IIA,Deployment of AI-based Human Language Processing for Embedded SW,STMicroelectronics,emna.khairallah@stmicroelectronics.vssend.com,Tunisie
+IIA,Développement d’un modèle prédictif de churn et segmentation des clients à risque via Machine Learning et application interactive,Sofrecom,wided.limame@sofrecom.com,Tunisie
+IIA,Multi-Agent System for Automated Website Creation Using Model Context Protocol,Talan,talantunisiainnovationfactory@gmail.com//imen.ayari@talan.com,Tunisie
+IIA,Conception et Implémentation d’un Tableau de Bord pour le Suivi des Données Énergétiques,Treetronix,bmechergui@treetronix.com,Tunisie
+IIA,Développement d’une solution IA de mesure du pied,Welyne,contact@welyne.com,Tunisie
+IIA,conception d'un moule d'injection plastique,Idem,bm.idem@tunet.tn,Tunisie
+IIA,Design and Implementation of a SharePoint Connector for Generative AI-Powered Automation,Standard Sharing Software (3S),hraouafi@3s.com.tn,Tunisie
+IIA,Migration d'une ligne de production,AS2E Automation,nessrine.othman@as2e-automation.com,Tunisie
+IIA,Etude et implémentation d’outils de diagnostic avionique pour l’identification ICAO et l’immatriculation des avions,Tunisair TECHNICS,boukhili.faouzi.c@gmail.com,Tunisie
+IIA,Conception et réalisation d’un nœud IoT industriel,LAB619,jawhermansour@outlook.com,Tunisie
+IIA,Firmware Over The Air Update Via Ethernet and USB,Mare Custos,mhamed.ridene@mare-custos.com,Tunisie
+IIA,Etude et Conception d’un système de mesure à base de Raspberry Pi pour test fonctionnel FXS de Gateway,Sagemcom Ezzahra,https://www.linkedin.com/in/houssem-nouajaa-72988bab/,Tunisie
+IIA,Firmware Over The Air Update Via Ethernet and USB,Mare Custos,mhamed.ridene@mare-custos.com,Tunisie
+IIA,Firmware Over The Air Update Via Ethernet and USB,Mare Custos,mhamed.ridene@mare-custos.com,Tunisie
+IIA,Firmware Over The Air Update Via Ethernet and USB,Mare custos,mhamed.ridene@mare-custos.com,Tunisie
+IIA,Développement du BSP BLE pour la carte NRF52-DK,Sofia Tech,sabri.boussami@sofia-technologies.com,Tunisie
+IIA,Développement d'un tableau de bord interactif pour le suivi du process BNR,Sagemcom Tunisie,abdelhamid.jazi@sagemcom.com,Tunisie
+IIA,"Design, Implementation, and Testing of Custom Logic Circuits Using STM32 Microcontrollers",STMicroelectronics,foued.khalsi@st.com,Tunisie
+IIA,Benchmark logiciel,STMicroelectronics,Sirine El Jazi,Tunisie
+IIA,Opportunity Detection and Gap Analysis,TALAN,achraf.melki@talan.com,Tunisie
+IIA,AI-Powered Safety System: Preventing Hand Injuries in Industrial Press Operations,Hutchinson,meissa.farah@hutchinson.com,Tunisie
+IIA,Migration d'un système HMI de proficy machine edition vers Gp pro ex,DELICE HOLDING,naim.benaziza@groupedelice.com.tn,Tunisie
+IIA,Développement d'une cellule robotisée avec le logiciel ROBOGUIDE pour une application de PICK and PLACE pour un robot Fanuc,AS2E,nessrine.othman@as2e-automation.com,Tunisie
+IIA,Conception d'une moule d'injection plastique,Société Mourad ben ayed,bm.idem@tunet.tn,Tunisie
+IIA,dev d'un systeme de generation de graphes automatiques avec de l'agentic AI,elepzia,karim.akkari@hackini.tn,Tunisie
+IIA,Web Development Engineer on a B2B SaaS application.,Reality,alibakabas@reality-co.com,USA
+IIA,Développement et optimisation d’une application web B2B,Reality,alibakabas@reality-co.com,USA
+IMI,Développement du logiciel d’abstraction des périphériques du Microcontrôleur STM32G473,Shanon Technologies,adel.lusakula@shanon-technologies.com,France
+IMI,"Conception, Développement et Déploiement d’un Assistant Virtuel Intelligent Intégré à l’ERP Odoo 17",YONNOV'IA,kturki@yonnovia.fr,France
+IMI,"Conception, Développement et Déploiement d’un Assistant Virtuel Intelligent Intégré à l’ERP Odoo 17",YONNOV'IA,kturki@yonnovia.fr,France
+IMI,"Design, Development, andDeployment of anIntelligent Virtual Assistant Integrated into the Odoo 17ERP",YONNOV'IA,kturki@yonnovia.fr,France
+IMI,customer satisfaction improvement program,AIRBUS sas blagnac -wings campus,Patrick.severac@airbus.com,France
+IMI,Mise en place d’une interface entre l’ERP Business Central et la plateforme TripToJapan.com et développement de tableaux de bord Power BI,Qwery Tech,mgabsi@qwery.lu,Luxembourg
+IMI,Automatisation du traitement d’un dossier technique de maintenance à l’aide de l’intelligence artificielle,Asteel Flash,ahmed.krifi@asteelflash.com,Tunis
+IMI,Realisation d'un robot agricole autonome doté d'IA pour la surveillance et l'optimisation des cultures,Cem lab,jawher@squ.edu.om,Tunis
+IMI,2,Mare Custos,Mhamed.ridene@mare-custos.com,Tunis
+IMI,Fine tuning: les platforms de low code et d’automatisation d’intelligence artificielle,Talan,racha.friji@talan.com,Tunis
+IMI,Enhancing E-Commerce Revenue Forecasting with Meta Prophet Model,The Quantic Factory,oumaima@quanticfy.io,Tunis
+IMI,De la théorie à la pratique : digitalisation du processus qualité au sein de SIMOTEX,Simotex,SROMDHANI@simone-perele.tn,Tunisia
+IMI,Evaluation et sélection des technologies pour les débitmètres appliqués au traitement du gaz naturel,Amilcar Petroleum Operations,abdesslem.jlassi@apo.com.tn,Tunisie
+IMI,Simulator for the Operation and Maintenance of Wind Farms for Reinforcement Learning Optimisation,SambacLab,hjarraya@sambaclab.com,Tunisie
+IMI,"Design and Implementation of a ""Lift and Learn"" System Based on RFID Technology",Screenflex - Digital Signage Solution,bilal@screenflex.pro,Tunisie
+IMI,Développement et déploiement d'une application web d'inspection 5S basée sur l'IA embarquée pour un robot mobile SSE TAG,Vernicolor Tunisia,houssem.jebali@vernicolor.com,Tunisie
+IMI,Développement d’un modèle embarqué pour la détection automatique des plaques d’immatriculation avec STM32N6570-DK,Stmicroelectronics,issam.irhouma01@st.com,Tunisie
+IMI,Développement d’un pipeline de données open source pour l’analyse prédictive des ventes,AMC Ernst & Young (EY),Marouen.El.Khalfet@tn.ey.com,Tunisie
+IMI,Valorisation énergétique de l'eau de mer utilisée au condenseur d'une centrale thermique,Société Tunisienne de l’Electricité et du Gaz,amrijihed@gmail.com,Tunisie
+IMI,Réalisation de mini système de contrôle-commande et de supervision de circuit eau NORIA,Societe tunisienne d'electricite et de gaz,-,Tunisie
+IMI,Valorisation énergétique d'un flux d'air chaud rejeté à la centrale électrique de Rades C,STEG (Centrale Rades C),amrijihed@gmail.com,Tunisie
+IMI,Automatisme Industriel: Etude Pratique et Perspectives d’Intégration des Nouvelles Technologies,SEA Electronics,hamdi.klai@sea-electronics.com,Tunisie
+IMI,Automatisme Industriel: Etude Pratique et Perspectives d’Intégration des Nouvelles Technologies,SEA Electronics,hamdi.klai@sea-electronics.com,Tunisie
+IMI,Aircraft Maintenance Practices and Hydraulic System Troubleshooting: A Case Study on Airbus A320,Tunisair Technics,,Tunisie
+IMI,Conception d’un module électronique basé sur un réseau de capteurs,MIGSens,syrine.behi11@gmail.com,Tunisie
+IMI,Conception d’un module électronique basé sur un réseau de capteurs,MIGSens,syrine.behi11@gmail.com,tunisie
+IMI,Matter over Thread Ecosystem: Building a Raspberry Pi-Based Border Router for Device Management,Sofiatech,ahmed.daoud@sofia-technologies.com,Tunisie
+IMI,Analyse hydraulique d’un système de pompage,Compagnie Tuniso-Koweïto Chinoise de Pétrole(CTKCP),ramzi.bouaicha@ctkcp.com.tn,Tunisie
+IMI,solar panels cleaner robot,horizop energy,wissem.8triki@gmail.com,Tunisie
+IMI,Conception d’un module électronique basé sur un réseau de capteurs embarqués pour des applications domotiques,MIGSens,syrine.behi11@gmail.com,Tunisie
+IMI,Réalisation d'un Data logger pour contrôler les chaînes du froid,ACCENT,siwar.hkiri.29@gmail.com,Tunisie
+IMI,Design and Implementation of a Modular Real-Time Embedded Software Architecture for the SPIRAW Machine,Food4Future (F4F),contact.food4future@gmail.com,Tunisie
+IMI,"Plateforme Multi-Agent IA Sécurisé pour la gestion automatisée d’infrastructure Hybride Simulée (on-premise , cloud)",ATTIJARI BANK,mohamedtaha.bs@gmail.com,Tunisie
+IMI,Conception d’un module électronique basé sur un réseau de capteurs embarqués pour des applications domotiques.,MigSENS,syrine.behi11@gmail.com,Tunisie
+IMI,Développement d’une solution IA pour la mesure des pieds à partir de photos,Welyne,mbenarfa@welyne.com,Tunisie
+IMI,Préparation d’une plateforme de test pour un système de contrôle-commande,Segitec,soumaya.ouechtati@segitec.net,Tunisie
+IMI,Creation d’un “B2B AI lead generation and engagement tool” avec une Architecture Multi-Agent (LeadX AI Sales Assistant),TALAN - Tunisie,.,Tunisie
+IMI,Conception et Développement d'une Machine IoT de Séchage de Marc de Café,Orange Digital Center,choumous.trabelsi@orange.com,Tunisie
+IMI,Mise en œuvre d’une Solution de Monitoring Proactive : Intégration de Zabbix et ManageEngine ServiceDesk plus,Draexlmaier,youssef.khazri@draexlmaier.com,tunisie
+IMI,Etude de l’influence du vide dans le condenseur sur le rendement d’une turbine à vapeur et optimisation du cycle,steg centrale de production de radés,amrijihed@gmail.com,TUNISIE
+IMI,Création d’un corpus NLU à partir de données textuelles via l’IA générative pour un chatbot multilingue,Inetum,stages@inetum.com,Tunisie
+IMI,Gestion et suivi des tests fonctionnels de cartes électroniques en environnement industriel,TIS Circuits - ALL Circuits Tunis,rafik.najjar@allcircuits.com,Tunisie
+IMI,Conception et simulation d’un système de supervision d’alarmes industrielles,POLYCOQ,+216 27 347 123 (morad saadi /vnous avons echangé par whatsapp),Tunisie
+IMI,Développement d’un Système Automatisé de de Monitoring des Législations sur la Durabilité,Carbon Jar,Oussamabenabdessalem@protonmail.com,Tunisie
+IMI,Étude et Acquisition de Données du Système Électrique d’une Voiturette Électrique,Bako Motors SAS,Achref.abdellaloui@bakomotors.com,Tunisie
+IMI,Développement d'un système de visualisation des ondes VLF pour détection des SIDs,Centre de Recherche en Microélectronique et Nanotechnologie,cherif.dridi@crmn.rnrt.tn,Tunisie
+IMI,Identification des Fabricants de Cartes Électroniques,TIS Circuits,rafik.najjar@allcircuits.com,tunisie
+IMI,Automatisation du surveillance et supervision de l’alimentation des chaudières,Groupe Chimiqque Tunisien,75275460,tunisie
+IMI,Prédiction des Défauts Industriels via Intelligence Artificielle : Développement d’un système de contrôle qualité en cours chez SIMOTEX,SIMOTEX,SROMDHANI@simone-perele.tn,Tunisie
+IMI,Analyse et amélioration du processus de production des cartes électroniques,TIS Circuits,rafik.najjar@allcircuits.com,Tunisie
+IMI,Intégration d'un système d'acquisition Temps Réel dans une chaîne de production pharmaceutique,DrugIT,koussaisalem@drugit.live,Tunisie
+IMI,Finetuning: AI Automation and Low-Code Platforms,Talan,racha.friji@talan.com,Tunisie
+IMI,Système de vision en tunnel pour la lecture de codes-barres,LEONI,aymen.mahmoud@leoni.com,Tunisie
+IMI,Optimisation du bilan économique et standardisation des processus de conception par implémentation d’une solution VBA,Metal Design Industrie,mdimeubles@gmail.com,Tunisie
+IMI,Mise en œuvre d’une Solution de Monitoring Proactive : Intégration de Zabbix et ManageEngine ServiceDesk plus,draexlmaier,youssef.khazri@draexlmaier.com,tunisie
+IMI,Etude du système de traitement d’air d’une salle blanche,AIRPRO Consulting,contact@airpro-consulting.com,Tunisie - Sfax
+IMI,Elaboration de fiches processus et automatisation du scan et de l'impression d'étiquettes,LACROIX Tunisie,a.benkacem@lacroix.group,Zriba HAMMAM
+RT,Development and Deployment of an e-Learning Platform with Payment Integration and Cloud Automation,Smartovate LTD,contact@smartovateai.com,United Kingdom
+RT,AI-Driven Generation of Data Pipelines from User Requirements,SpeedyKom Group,ahmed.amri@speedykom.com,Allemagne
+RT,Automated Testing and Quality Assurance for the MindBay Platform,MindBay,contact@mindbay.ai,Angleterre
+RT,AI-Powered Live Stats & Analysis for Sports (Football & Basketball),BID consulting,mahdi.benhmida@bidata-consulting.tn,Bizerte Tunisie
+RT,Intégration et exposition d'APIs dans un environnement Microsoft Azure,CareerBoosts,koussay.jhimi@careerboosts.com,Canada (stage en remote)
+RT,AI integration in Pentesting,CrossRealms International,zchakroun@crossrealms.com,"Chicago City in Illinois, USA"
+RT,Enhancements and productionalization of a platform aimed at automation of AI autonomous agents,Knowdroids,vladislav.severa@knowdroids.ai,Czech Republic
+RT,Assistant Virtuel (Chatbot) intégré à Odoo,YONNOV’IA SAS,kturki@yonnovia.fr,France
+RT,Automatisation intelligente du traitement documentaire,Yonnov'IA,kturki@yonnovia.fr,France
+RT,Automatisation intelligente du traitement documentaire (OCR/IA),Yonnov'IA,kturki@yonnovia.fr,France
+RT,Mise en place d’un assistant conversationnel local basé sur un modèle GPT open source,Yonnov'IA,kturki@yonnovia.fr,France
+RT,Optimisation Prédictive des stocks et approvisionnements,Yonnov'ia,kturki@yonnovia.fr,France
+RT,Optimisation pr´edictive des stocks et approvisionnements,Yonnovia,kturki@yonnovia.fr,France
+RT,Analyse d’intention et Authentification dans les Écosystèmes DeFi (extension SLF-DF),EFREI Research Lab,souheib.yousfi@efrei.fr,France
+RT,Automatisation intelligente du traitement documentaire,YONNOV’IA,kturki@yonnovia.fr,France
+RT,Landing Zone AWS avec Control Tower et Account Factory for Terraform (AFT),PCP consulting,contact@pcp-consulting.fr,France
+RT,Conception et déploiement d’un chatbot de gestion des risques basé sur un LLM open-source,Yonnov'ia,kturki@yonnovia.fr,France
+RT,Active Learning for Medical Image Segmentation:,Efrei Paris Panthéon-Assas Université,wided.miledsouid@insat.ucar.tn,France
+RT,Deep Learning and generative based predictions,Manipal university Jaipur,tarunkumar.dubey@jaipur.manipal.edu,India
+RT,Network Device Data Fetching and UI Display and Golang Library Development,Google,papudatta@google.com,Irlande
+RT,Network Device Data Fetching and UI Display and Golang Library Development,Google,papudatta@google.com,Irlande
+RT,Gestion intelligente de l’irrigation et la santé des plantes,Dedan Kimathi University of Science and Technology,samuel.macharia@dkut.ac.ke,Kenya
+RT,Automated Integration and Deployment of the Acadova Platform,Acadova Limited,livia@acadova.com,London
+RT,Subul AI-Powered Job Recommendation System,Smartovate,contact@smartovateai.com,"London, England"
+RT,"Telecom Network Architecture, Expansion & Integration (Fiber & Mobile) for Omantel’s Business Clients",Omantel,musabah.malki@omantel.om,Oman
+RT,"Development and Optimization: Enhancing an AI-Powered Content Generation Platform, and Automated Testing",Tellem Software,yan.ouzegdouh@tellemai.com,"Paris, France"
+RT,Deep Learning Face Detection Model,Moderering,alexandresossou@moderering.com,"Paris, France"
+RT,Automated Vulnerability Management Using DefectDojo,Aman solutions for cybersecutity,m.mouldi@aman.com.sa,Saudi Arabia
+RT,développement d'un site web pour une université,the open university of tanzania,2.55713E+11,tanzania
+RT,Real-time collaborative document editor,Open university of tanzania,vc@out.ac.tz,Tanzania
+RT,Mise en place d’une chaîne CI/CD pour les applications NGI,NGI,slim.hajri@ngi.tn,Tunis
+RT,Mise en place d’une chaîne CI/CD pour les applications NGI,NGI,slim.hajri@ngi.tn,Tunis
+RT,Development,KIAN,khalil.rouissi@kiantec.co,Tunis
+RT,Mise en place de bonnes pratiques d'automatisation CI/CD sur Azure Cloud chez Oratio,Oratio,oussama.chelly@oratiotechnologies.com,Tunis
+RT,Plateforme de gestion d’inventaire et provisionnement automatisé de VM,NEXT STEP IT,a.kouka@nextstep-it.com,"Tunis,Tunisie"
+RT,Monthly Carbon Emissions Report Automation & Satellite Data Research and Model Enhancement.,Carbon Insights,stefan@carboninsights.net,Tunisia
+RT,Contributed to the design and implementation of an evaluation and feedback platform,ATS - Digital Dev,,Tunisia
+RT,Development of an AI Agent for Goal-Driven Web Scraping,Gofield(winshot),amjed@winshot.net,Tunisia
+RT,Enhancing Observability and Automation in Cloud-Native Applications,COHEALTH (Saydalid),fares_messedi@saydalid.com,Tunisie
+RT,Analyzing Abnormal Human Poses Using the PoseLift Dataset,Anavid,amira.bedoui@anavid.ai,Tunisie
+RT,Chatbot d’entretien intelligent : conception d’un agent conversationnel adaptatif piloté par LLM,allence tunise,contact@allence-tunisie.com,tunisie
+RT,ChatBot audio,Allence Tunisie,"le contact par discord, pas d'email",Tunisie
+RT,AI-Driven Strategic Intelligence Pipeline for Market Opportunity Detection,TALAN Tunisie,imen.ayari@talan.com,Tunisie
+RT,Développement d’une plateforme DevSecOps interne Monitoring et sécurisation des prompts IA,PwC,marwa.magrebi@pwc.com,tunisie
+RT,CVBot Intelligence – Système d’automatisation RH basé sur l’IA générative,Inetum,sana.ben-amar@inetum.com,Tunisie
+RT,Implémentation Full Stack d’une Application Web,Tunidev Engineering,ghassendaoud99@gmail.com,Tunisie
+RT,Création d’un pipeline AI pour la détection de joueurs de football dans les matchs,Perf-Analysis Consulting,mohamed.ayachi@perfanalysis.consulting,Tunisie
+RT,Analyse hydraulique d’un système de pompage,Compagnie Tuniso-Koweïto Chinoise de Pétrole(CTKCP),ramzi.bouaicha@ctkcp.com.tn,Tunisie
+RT,Leveraging Vision-Language Models (VLMs) for Image Annotation in Shop-Analytics,Anavid,mohamed.ba@anavid.co,Tunisie
+RT,Scoring non supervisé de la pertinence thématique d’articles de presse français à l’aide de contextes prédéfinis,Business&AI,nbelgasmi@business-and-ai.com,Tunisie
+RT,development d'application web de transport,it-bafa,fatma@gmail.com,tunisie
+RT,CI/CD Pipeline for Backend (Spring Boot Application) with Security and Monitoring,MedSirat,contact@medsirat.com,Tunisie
+RT,Web Application Penetration Testing,SMART SKILLS,habib.jalouli@smartskills.tn,Tunisie
+RT,"Design and Implementation of the Kidora Application Using Docker, Kubernetes, and Jenkins",AlmaTechnology,aalibelhadjsalah@gmail.com,Tunisie
+RT,Development of a web application for xml to json mapping,SOTUTECH,contact@sotutech.com,Tunisie
+RT,Optimisation et déploiement de solutions de monitoring dans un environnement kubernetes,Sofrecom Tunisie,Dhia.saadaoui@sofrecom.com,Tunisie
+RT,Facial recognition-based access control system,TunisAir,moncer.jemmali@tunisair.com.tn,Tunisie
+RT,Conception d'une application web avec RBAC et un dashboard pour le données énergétiques avec intégration IA,Sagemcom ZI Borj Ghorbel,Saber.antri@sagemcom.com,Tunisie
+RT,Automatisation de réseaux et Traffic engineering,3S : Standard Sharing Software,mkammoun@3s.com.tn,Tunisie
+RT,Développement d’une application interne de suivi et de gestion des abonnés chez Orange Tunisie,Orange Tunisie,bilel.boussaa@orange.com,Tunisie
+RT,Conception et implementation d'une plateforme avancée de création de formulaires pour le secteur de l'assurance,Bysur - AS R&D,sc@bysur.com,Tunisie
+RT,Prospection du marché du consulting par l’IA à partir des données multi-source,Genius Data,contact@geniusdata.fr,Tunisie
+RT,Plateforme de Suivi Sportif et Nutritionnel Personnalisé Basée sur l'IA,BID Consulting,mahdi.benhmida@bidata-consulting.tn,Tunisie
+RT,Applications of DevOps practices for the deployment of a 3-tier web application,Comwork.io,idriss.neumann@comwork.io,tunisie
+RT,Designing and Implementing a Monitored Hybrid Cloud Infrastructure on Microsoft Azure using IaC,Tunisian Security Informatics,o.hamed@tn-tsi.com,Tunisie
+RT,Load Testing Expensya App,Expensya by Medius,Julien.patte@medius.com,Tunisie
+RT,Prédiction des Anomalies dans les Données Énergétiques,SFM TECHNOLOGIES,maroua.salhi@sfmtechnologies.com,Tunisie
+RT,L’IA au service de la stratégie de l’entreprise et de l’effort commercial,Talan Tunisie,imen.ayari@talan.com,Tunisie
+RT,"From Code to Production: A CI/CD, Cloud Deployment and Cybersecurity Journey",Ukla Software,mohamedachraf.mrabet@uklanutrition.com,Tunisie
+RT,Stable diffusion models in home staging applications,Orion.IA,ghassen.ghouibi@orionia.fr,Tunisie
+RT,Agent IA pour l’évaluation automatisée des risques de crédit et de leasing et le traitement de documents dans les services financiers,Data-Tricks,saber.mansour@data-tricks.fr,Tunisie
+RT,Auto-Scalable Event-Driven DataOps Pipeline on Google Cloud,Devoteam,aymen.metoui@devoteam.com,Tunisie
+RT,Automation of AWS Cloud Resource Access and User Management,TALAN Tunisie,ons.mahsni@talan.com dalila.ben-charnia@talan.com wassim.gharbi@talan.com,Tunisie
+RT,Pénétration Testing et Automatisation,Smart Skills,contact@smartskills.net,Tunisie
+RT,Supporting International Phone Number Functionality in the Flouci Application,Kaoun,abdelwaheb.moalla@flouci.com,Tunisie
+RT,Design and Implementation of a Microservices Based Commission and Invoicing System,Kaoun,a@flouci.com,Tunisie
+RT,Dockerisation de la solution Modelio de l'entreprise Docaposte,Docaposte tunisie,nouha.soula@docaposte.fr,Tunisie
+RT,Cloud engineering,Seneca innovation center,mo@1dev.space,tunisie
+RT,Engineering an AI-driven pipeline to transform unstructured text into knowledge graphs powering agentic systems for the pharmaceutical industry,DrugIT,Jawherkhalifa@drugit.live,Tunisie
+RT,MCP server for active directory penetration testing,Keystone Group,omar.jezi@keystone.tn,Tunisie
+RT,Dockerisation de la sollution Modelio de l'entreprose Docaposte,Docaposte tunisie,nouha.soula@docaposte.fr,Tunisie
+RT,Conception et D´eploiement d’une Architecture Cloud-Native pour un SaaS sur AWS,Carbon Jar,oussamabenabdessalem@protonmail.com,Tunisie
+RT,Machine Learning,"Laboratoire COSIM , SUP'COM",benazzaamel@gmail.com,tunisie
+RT,Exploring multimodal dataset for the monitoring of dairy cattle helath state,laboratoire de recherche COSIM.,benazza.amel@supcom.tn,tunisie
+RT,Dairy cattle health state classification using Machine Learning techniques,"Laboratoire COSIM , SUP'COM",benazza.amel@supcom.tn,Tunisie
+RT,Développement et Déploiement d’un Chatbot Interne sur cluster GKE avec CI/CD et Terraform,Devoteam,nesrine.hadj.khelil@devoteam.com,Tunisie
+RT,Conception et développement d’un Pipeline CI/CD pour un plateforme de management d'énergie SaaS avec sécurité et surveillance,Control Energy,mohamed.kharrat@controlenergy.com.tn,Tunisie
+RT,SmartClaim – Portail web pour la gestion et suivi des sinistres des assurances,ADDINN Tunisie,achref.fnoun@addinn.com,Tunisie
+RT,Assistant Réglementaire Bancaire,Focus Corporation,mariem.dahmoun@focus-corporation.com,Tunisie
+RT,Auction Sight : Visual Similarity and Price Prediction in Copart Auctions,Matrixcel Business,matrixcelbusinesshr@gmail.com / ihebkhalfallah23@gmail.com,Tunisie / UK
+RT,Development of an AI-Powered Application for Mind Map and Podcast Generation,acadova,livia@acadova.com,UK
+RT,TEAMLINK: ADVANCED FRONTEND SOLUTIONS WITH AI CHATBOT INTEGRATION FOR ENTERPRISE ONBOARDING,Acadova Limited,livia@acadova.com,UK
+RT,Automation of bussiness workflow for Realestate,CEDAR ACQUISITIONS LLC,team4@mail.cedaracq.com,USA
