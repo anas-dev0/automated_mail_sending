@@ -1,38 +1,51 @@
+import os
+
+DEFAULT_PROFILE_PATH = os.getenv("PROFILE_FILE", "profile.txt")
+DEFAULT_RELEVANCE_TOPICS = "AI, Machine Learning, Data Science, Deep Learning, NLP, Computer Vision"
+DEFAULT_MAX_WORDS = "200"
+
+
+def _load_profile(profile_path=DEFAULT_PROFILE_PATH):
+    if not os.path.exists(profile_path):
+        raise FileNotFoundError(
+            f"Profile file '{profile_path}' not found. Copy 'profile.example.txt' to "
+            f"'{profile_path}' and fill it in with your own background/CV summary."
+        )
+    with open(profile_path, "r", encoding="utf-8") as f:
+        return f.read().strip()
+
+
 def create_prompt(firm_name, sujet, email):
+    candidate_name = os.getenv("CANDIDATE_NAME", "Your Name")
+    max_words = os.getenv("MAX_EMAIL_WORDS", DEFAULT_MAX_WORDS)
+    profile = _load_profile()
+
     user_prompt = f"""Write a professional internship application email to {firm_name} for a {sujet} internship position, addressed to {email}.
 
 The email must include:
 - A polite greeting
-- A brief introduction of the applicant (Anas Aouini, ICT Engineering Student at Sup'Com)
+- A brief introduction of the applicant ({candidate_name})
 - A clear statement of interest in the internship
-- A summary of relevant skills and experiences (see CV below)
+- A summary of relevant skills and experiences (see profile below)
 - A note that the CV is attached
 - A polite closing
-- Maximum 200 words
+- Maximum {max_words} words
 
---- CV ---
-Anas Aouini | anas.aouini@supcom.tn | +216 58 934 007
-ICT Engineering Student at Sup'Com (2nd year, focus: Telecom, AI, Software Engineering)
-Ranked 86/1750 in preparatory cycle (Math-Physics)
-
-Experience: Summer intern at TalentLink (Django + React University Management Platform)
-Leadership: IEEE Sup'Com CS Chapter Chairperson
-
-Key Projects:
-- Jobify: real-time voice interview agent (LiveKit, Google Realtime API)
-- Mealy: AI cooking app (Flutter, Flask, Firebase, food photo recognition)
-- IndabaX Tunisia 2025 Website (Technical Manager)
-
-Awards:
-- 1st Place, Orange AI Hackathon (Churn prediction model)
-- 2nd Place, CSTAM 2.0 (chatbot + nutrition-facts from food photos)
-
-Skills: Python, C++, TypeScript, React, FastAPI, LangChain, PyTorch, Docker
-Certifications: ML Specialization (Coursera), CCNA 1, Nvidia Deep Learning & Data Science
-Languages: Arabic, English, French (all fluent)
---- END CV ---
+--- CANDIDATE PROFILE ---
+{profile}
+--- END CANDIDATE PROFILE ---
 
 Respond with ONLY this JSON structure, nothing else:
 {{"subject": "...", "body": "..."}}"""
 
     return user_prompt
+
+
+def create_relevance_check_prompt(sujet):
+    topics = os.getenv("RELEVANCE_TOPICS", DEFAULT_RELEVANCE_TOPICS)
+    RELEVANCE_CHECK_USER = f"""Does this internship subject relate to any of the following fields: {topics}?
+    Internship subject: {sujet}
+
+    Respond with ONLY this JSON:
+    {{"related": "yes"}} or {{"related": "no"}}"""
+    return RELEVANCE_CHECK_USER

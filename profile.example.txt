@@ -1,0 +1,16 @@
+Jane Doe | jane.doe@example.com | +1 555 123 4567
+Computer Science Student at Example University (3rd year, focus: Software Engineering, AI)
+
+Experience: Summer intern at Acme Corp (built internal tools with Python and React)
+Leadership: Vice President, University Coding Club
+
+Key Projects:
+- Project A: short description of what it does and the tech used
+- Project B: short description of what it does and the tech used
+
+Awards:
+- 1st Place, University Hackathon 2025
+
+Skills: Python, JavaScript, React, SQL, Docker
+Certifications: relevant certifications here
+Languages: English (fluent), French (intermediate)

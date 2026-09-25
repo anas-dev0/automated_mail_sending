@@ -2,4 +2,11 @@
 venv/
 __pycache__
 .vscode
+
+# Personal data - copy the .example files instead
+profile.txt
+cv.pdf
+leads.csv
 stage.csv
+stage_fixed.csv
+Cv_anas_aouini.pdf

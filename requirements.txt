@@ -1,0 +1,7 @@
+pandas
+python-dotenv
+langchain
+langchain-google-genai
+
+# Optional: only needed if LLM_PROVIDER=ollama in your .env
+langchain-ollama
